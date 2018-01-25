@@ -17,6 +17,8 @@ namespace demo11
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
 // fix here!
+
         }
+// fix here two time! 
     }
 }
